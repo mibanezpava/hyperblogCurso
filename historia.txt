@@ -2,6 +2,8 @@ esta es una version 1
     esta es una modificacion 
         una palabra mas 
 
+        eliminar esta palabra 
+
         cambio 1
 
         cambio 2 
