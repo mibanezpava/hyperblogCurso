@@ -5,6 +5,14 @@ text-align: left;
 font-family: "arial"; 
 
 }
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
+
 #cabecera 
 {
     background: #33A;
@@ -15,13 +23,7 @@ font-family: "arial";
     padding: 0.5em;
 
 }
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
 
-}
 #container 
 {
     width: 70%;
