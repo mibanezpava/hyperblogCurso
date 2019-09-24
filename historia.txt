@@ -15,6 +15,7 @@ este es un clon del proyecto
 este es un cambio de maick 
 se realiza cambios en el proyecto de hyperblog como fork, maick ya no pertenece al proyecto de hyperblog de mibanez
 
-Mater 1
+experimento 1
 
+Mater 1
 Master 2
